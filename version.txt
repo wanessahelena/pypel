@@ -1,0 +1,25 @@
+PYPEL - SISTEMA DE GERENCIAMENTO DE PAPELARIA
+VERSÃO 0.01 - sistema de autenticação concluído - 22/01/2024
+
+https://github.com/wanessahelena/pypel
+Wanessa Helena Rodrigues de Oliveira
+wanessa0911helena@gmail.com
+
+1. ABNT
+OLIVEIRA, Wanessa Helena Rodrigues. PYPEL - Sistema de Gerenciamento de Papelaria. [S.l.]: [s.n.], 2024. Disponível em: https://github.com/wanessahelena/pypel. Acesso em: [data de acesso].
+
+2. IEEE
+W. R. Oliveira, "PYPEL - Sistema de Gerenciamento de Papelaria," [Online]. Disponível em: https://github.com/wanessahelena/pypel. [Acesso em: dia, mês, ano].
+
+
+3. APA
+Oliveira, W. R. (2024). PYPEL - Sistema de Gerenciamento de Papelaria. Acesso em [data de acesso], de https://github.com/wanessahelena/pypel.
+
+4. BibTeX
+@misc{nametala2024pypel,
+  author = {Oliveira,Wanessa Helena Rodrigues},
+  title = {PYPEL - Sistema de Gerenciamento de Papelaria},
+  year = {2024},
+  howpublished = {\url{https://github.com/wanessahelena/pypel}},
+  note = {Acessado em: data de acesso}
+}

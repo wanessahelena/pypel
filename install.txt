@@ -14,12 +14,14 @@ AMBIENTE:
 1) Instalar o Python 3.11.9
 2) Criar um ambiente virtual para o PYPEL chamado 'pypel' com essa versão do Python com:
 conda create --name pypel python=3.11.9
-3) Instalar o Django com a versão 4.1 com:
-pip install django==4.1
-4) Instalar o driver python psycopg2 com:
-pip install psycopg2
-5) Dar os comandos no terminal:
+3) Ative o ambiente com:
 conda activate pypel
+4) Instalar o Django com a versão 4.1 com:
+pip install django==4.1
+5) Instalar o driver python psycopg2 com:
+pip install psycopg2
+6) Acesse a pasta PYPEL usando via terminal
+7) Dar os comandos no terminal:
 python manage.py makemigrations
 python manage.py migrate
 python manage.py inicializa_sistema
