@@ -16,7 +16,7 @@ W. R. Oliveira, "PYPEL - Sistema de Gerenciamento de Papelaria," [Online]. Dispo
 Oliveira, W. R. (2024). PYPEL - Sistema de Gerenciamento de Papelaria. Acesso em [data de acesso], de https://github.com/wanessahelena/pypel.
 
 4. BibTeX
-@misc{nametala2024pypel,
+@misc{oliveira2024pypel,
   author = {Oliveira,Wanessa Helena Rodrigues},
   title = {PYPEL - Sistema de Gerenciamento de Papelaria},
   year = {2024},
